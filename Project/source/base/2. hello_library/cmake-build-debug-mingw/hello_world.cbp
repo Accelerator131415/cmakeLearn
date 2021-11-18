@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="hello_world"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_lib">
+				<Option output="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/libhello_lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 hello_lib"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_lib/fast">
+				<Option output="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/libhello_lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 hello_lib/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_dll">
+				<Option output="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/libhello_dll.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 hello_dll"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_dll/fast">
+				<Option output="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/libhello_dll.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 hello_dll/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_world">
+				<Option output="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/hello_world.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 hello_world"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_world/fast">
+				<Option output="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/hello_world.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 hello_world/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_ndll">
+				<Option output="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/libhello_ndll.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 hello_ndll"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_ndll/fast">
+				<Option output="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/libhello_ndll.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 hello_ndll/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/dll/func.cpp">
+			<Option target="hello_dll"/>
+		</Unit>
+		<Unit filename="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/main.cpp">
+			<Option target="hello_world"/>
+		</Unit>
+		<Unit filename="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/ndll/func.cpp">
+			<Option target="hello_ndll"/>
+		</Unit>
+		<Unit filename="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/src/top.cpp">
+			<Option target="hello_lib"/>
+		</Unit>
+		<Unit filename="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

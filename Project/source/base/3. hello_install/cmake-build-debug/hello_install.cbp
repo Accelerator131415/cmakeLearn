@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="hello_install"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TOPS">
+				<Option output="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/cmake-build-debug/TOPS.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 TOPS"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TOPS/fast">
+				<Option output="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/cmake-build-debug/TOPS.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 TOPS/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_install">
+				<Option output="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/cmake-build-debug/hello_install.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 hello_install"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_install/fast">
+				<Option output="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/cmake-build-debug/hello_install.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 hello_install/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 install/local"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 install"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 list_install_components"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\3. hello_install\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/main.cpp">
+			<Option target="hello_install"/>
+		</Unit>
+		<Unit filename="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/src/top.cpp">
+			<Option target="TOPS"/>
+		</Unit>
+		<Unit filename="C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

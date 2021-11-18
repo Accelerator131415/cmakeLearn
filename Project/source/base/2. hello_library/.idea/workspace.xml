@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="hello_world" targetName="hello_world" />
+      <config projectName="hello_world" targetName="hello_dll" />
+      <config projectName="hello_world" targetName="hello_ndll" />
+      <config projectName="hello_world" targetName="hello_lib" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f7d0079-75ee-4dd2-bfeb-d5320a6952c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../3. hello_install/src/top.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWolrd.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWolrd.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWolrd.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWolrd.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWolrd.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWolrd.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWolrd.dir/embed.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWolrd.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWolrd.dir/intermediate.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWolrd.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWolrd.dir/manifest.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWolrd.dir/manifest.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWolrd.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWolrd.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWolrd.dir/vc140.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWorld.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWorld.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWorld.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWorld.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWorld.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWorld.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWorld.dir/embed.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWorld.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWorld.dir/intermediate.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWorld.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWorld.dir/manifest.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWorld.dir/manifest.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWorld.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWorld.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWorld.dir/src/top.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/helloWorld.dir/vc140.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/helloWolrd.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/helloWolrd.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/helloWolrd.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/helloWorld.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/helloWorld.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/helloWorld.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/cmake-build-debug/helloWorld.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/include/top.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cmake/src/top.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-MinGW" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1zwbSZj8YU2BOAaDsE6GaDVBuyO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../firstProject/GameCode/platfrom" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunManager" selected="CMake Application.hello_library">
+    <configuration name="hello_dll" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello_world" TARGET_NAME="hello_dll" CONFIG_NAME="Debug-MinGW">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello_lib" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello_world" TARGET_NAME="hello_lib" CONFIG_NAME="Debug-MinGW">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello_library" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug-MinGW" RUN_TARGET_PROJECT_NAME="hello_world" RUN_TARGET_NAME="hello_world" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello_ndll" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello_world" TARGET_NAME="hello_ndll" CONFIG_NAME="Debug-MinGW">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello_world" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello_world" TARGET_NAME="hello_world" CONFIG_NAME="Debug-MinGW" RUN_TARGET_PROJECT_NAME="hello_world" RUN_TARGET_NAME="hello_world">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.hello_library" />
+      <item itemvalue="CMake Application.hello_dll" />
+      <item itemvalue="CMake Application.hello_lib" />
+      <item itemvalue="CMake Application.hello_ndll" />
+      <item itemvalue="CMake Application.hello_world" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f7d0079-75ee-4dd2-bfeb-d5320a6952c5" name="Changes" comment="" />
+      <created>1635062097796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635062097796</updated>
+      <workItem from="1635062099146" duration="4711000" />
+      <workItem from="1635078121215" duration="3208000" />
+      <workItem from="1635436576767" duration="473000" />
+      <workItem from="1636036786368" duration="621000" />
+      <workItem from="1636037887214" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

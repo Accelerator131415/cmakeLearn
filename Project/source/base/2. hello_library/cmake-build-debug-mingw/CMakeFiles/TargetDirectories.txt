@@ -1,0 +1,10 @@
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/CMakeFiles/hello_lib.dir
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/CMakeFiles/install/local.dir
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/CMakeFiles/hello_dll.dir
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/CMakeFiles/install.dir
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/CMakeFiles/hello_world.dir
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/CMakeFiles/hello_ndll.dir
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/CMakeFiles/list_install_components.dir
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/cmake-build-debug-mingw/CMakeFiles/install/strip.dir

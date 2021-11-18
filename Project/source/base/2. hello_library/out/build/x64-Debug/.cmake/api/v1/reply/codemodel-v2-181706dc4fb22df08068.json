@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hello_world",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hello_dll::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello_dll-Debug-da60aa99a3899029a741.json",
+					"name" : "hello_dll",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hello_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello_lib-Debug-d2db9d8c7ec7b811ce96.json",
+					"name" : "hello_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hello_ndll::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello_ndll-Debug-c3b2122bfeefea8b6bc1.json",
+					"name" : "hello_ndll",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hello_world::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello_world-Debug-0c963dc446c73defbab4.json",
+					"name" : "hello_world",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/out/build/x64-Debug",
+		"source" : "C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

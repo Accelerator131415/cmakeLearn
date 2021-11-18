@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/4.hello_newWorld/build/main",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/newWolrd.dir/includes_CXX.rsp -g -o CMakeFiles\\newWolrd.dir\\main.cpp.obj -c C:\\L\\YoungAndCrazy\\cmakeProject\\cmakeLearn\\Project\\source\\base\\4.hello_newWorld\\code\\main\\main.cpp",
+  "file": "C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/4.hello_newWorld/code/main/main.cpp"
+},
+{
+  "directory": "C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/4.hello_newWorld/build/source",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/topObj.dir/includes_CXX.rsp -g -o CMakeFiles\\topObj.dir\\top.cpp.obj -c C:\\L\\YoungAndCrazy\\cmakeProject\\cmakeLearn\\Project\\source\\base\\4.hello_newWorld\\code\\source\\top.cpp",
+  "file": "C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/4.hello_newWorld/code/source/top.cpp"
+}
+]

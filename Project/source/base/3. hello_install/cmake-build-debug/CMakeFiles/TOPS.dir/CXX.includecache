@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/top.h
+
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/src/top.cpp
+top.h
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/3. hello_install/src/top.h
+

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/2. hello_library/dll/func.cpp
+iostream
+-
+

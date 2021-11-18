@@ -1,0 +1,8 @@
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/4.hello_newWorld/build/CMakeFiles/edit_cache.dir
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/4.hello_newWorld/build/CMakeFiles/rebuild_cache.dir
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/4.hello_newWorld/build/main/CMakeFiles/newWolrd.dir
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/4.hello_newWorld/build/main/CMakeFiles/edit_cache.dir
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/4.hello_newWorld/build/main/CMakeFiles/rebuild_cache.dir
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/4.hello_newWorld/build/source/CMakeFiles/topObj.dir
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/4.hello_newWorld/build/source/CMakeFiles/edit_cache.dir
+C:/L/YoungAndCrazy/cmakeProject/cmakeLearn/Project/source/base/4.hello_newWorld/build/source/CMakeFiles/rebuild_cache.dir

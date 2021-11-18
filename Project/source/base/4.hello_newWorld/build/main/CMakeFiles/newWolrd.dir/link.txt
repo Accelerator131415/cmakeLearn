@@ -1,0 +1,3 @@
+C:\D\Cmake\bin\cmake.exe -E rm -f CMakeFiles\newWolrd.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\newWolrd.dir/objects.a @CMakeFiles\newWolrd.dir\objects1.rsp
+C:\MinGW\bin\mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\newWolrd.dir/objects.a -Wl,--no-whole-archive -o C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\4.hello_newWorld\code\output\newWolrd.exe -Wl,--out-implib,C:\L\YoungAndCrazy\cmakeProject\cmakeLearn\Project\source\base\4.hello_newWorld\code\output\libnewWolrd.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\newWolrd.dir\linklibs.rsp

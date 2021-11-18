@@ -1,0 +1,7 @@
+# ninja log v5
+1	805	6585905687177803	CMakeFiles/helloWorld.dir/src/top.cpp.obj	4857d8713192a201
+4	816	6585905687277800	CMakeFiles/helloWorld.dir/main.cpp.obj	1cd80d6271f04b3e
+817	1151	6585905690527794	helloWorld.exe	f5d88cd09036019b
+3	814	6585936124597852	CMakeFiles/haha.dir/src/top.cpp.obj	c3679569ef8b4263
+0	817	6585936124627814	CMakeFiles/haha.dir/main.cpp.obj	fcdf986c44bf56d6
+817	1099	6585936127336750	haha.exe	8b4668e099e0ac3a
